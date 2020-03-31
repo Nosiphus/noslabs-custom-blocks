@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "noslabs:blocks/countertop_sides",
+    "down": "noslabs:blocks/countertop_updown",
+    "up": "noslabs:blocks/countertop_updown",
+    "east": "noslabs:blocks/countertop_sides",
+    "west": "noslabs:blocks/countertop_sides",
+    "north": "noslabs:blocks/countertop_sides",
+    "south": "noslabs:blocks/countertop_sides"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "noslabs:blocks/brick",
+        "top": "noslabs:blocks/brick",
+        "side": "noslabs:blocks/brick"
+    }
+}

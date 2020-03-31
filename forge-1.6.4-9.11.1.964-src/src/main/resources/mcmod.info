@@ -1,0 +1,16 @@
+[
+{
+  "modid": "NosLabs",
+  "name": "NosLabs",
+  "description": "Mod by Nosiphus to add The VoxelBox Scientific HD into its own mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["windowsxprules1"],
+  "credits": "windowsxprules1",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

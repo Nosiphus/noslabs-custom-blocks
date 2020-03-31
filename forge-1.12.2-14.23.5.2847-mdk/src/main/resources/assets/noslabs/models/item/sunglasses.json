@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "noslabs:items/sunglasses",
+        "layer1": "noslabs:items/sunglasses_overlay"
+    }
+}

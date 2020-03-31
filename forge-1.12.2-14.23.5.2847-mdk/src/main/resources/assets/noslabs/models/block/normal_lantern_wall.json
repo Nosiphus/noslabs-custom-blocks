@@ -1,0 +1,6 @@
+{
+    "parent": "noslabs:block/lantern_wall",
+    "textures": {
+        "lantern": "noslabs:blocks/lantern"
+    }
+}

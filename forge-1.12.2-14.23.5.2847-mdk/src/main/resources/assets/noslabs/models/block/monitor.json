@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "noslabs:blocks/monitor_top",
+    "down": "noslabs:blocks/monitor_top",
+    "up": "noslabs:blocks/monitor_top",
+    "east": "noslabs:blocks/monitor_back",
+    "west": "noslabs:blocks/monitor_back",
+    "north": "#front",
+    "south": "noslabs:blocks/monitor_back"
+  }
+}

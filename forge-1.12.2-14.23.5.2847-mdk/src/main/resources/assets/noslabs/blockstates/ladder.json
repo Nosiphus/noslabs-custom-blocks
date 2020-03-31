@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "noslabs:ladder" },
+        "facing=east":  { "model": "noslabs:ladder", "y": 90 },
+        "facing=south": { "model": "noslabs:ladder", "y": 180 },
+        "facing=west":  { "model": "noslabs:ladder", "y": 270 }
+    }
+}

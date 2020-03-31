@@ -1,0 +1,6 @@
+{
+    "parent": "noslabs:block/lantern",
+    "textures": {
+        "lantern": "noslabs:blocks/led_off"
+    }
+}

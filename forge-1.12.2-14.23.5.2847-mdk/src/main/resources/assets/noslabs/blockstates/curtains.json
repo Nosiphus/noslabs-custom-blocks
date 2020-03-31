@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "noslabs:curtains" },
+        "facing=east":  { "model": "noslabs:curtains", "y": 90 },
+        "facing=south": { "model": "noslabs:curtains", "y": 180 },
+        "facing=west":  { "model": "noslabs:curtains", "y": 270 }
+    }
+}

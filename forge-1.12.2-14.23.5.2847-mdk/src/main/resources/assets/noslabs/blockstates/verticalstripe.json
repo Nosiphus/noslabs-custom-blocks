@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "noslabs:verticalstripe"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

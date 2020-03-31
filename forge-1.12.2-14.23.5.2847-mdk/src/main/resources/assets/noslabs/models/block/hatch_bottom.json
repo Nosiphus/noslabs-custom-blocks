@@ -1,0 +1,6 @@
+{
+    "parent": "noslabs:block/hatchw_bottom",
+    "textures": {
+        "texture": "noslabs:blocks/hatch"
+    }
+}

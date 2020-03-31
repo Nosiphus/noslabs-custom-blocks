@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "noslabs:planksacacia"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

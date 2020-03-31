@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "noslabs:items/suit_coat",
+        "layer1": "noslabs:items/suit_coat_overlay"
+    }
+}
